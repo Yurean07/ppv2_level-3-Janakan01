@@ -12,6 +12,5 @@ dif draw_circle (size,angle,shift)
     
 turtle.bgcolor('black')
 turtle.speed('fast')
-turtle.pensize(4)
-draw_circle(30,0,1
-           )
+turtle.pensize(40)
+draw_circle(30,0,1)
