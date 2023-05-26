@@ -34,11 +34,11 @@ t.bgcolor('Dodger blue')
 
 t.goto(-100, -150)
 
-rectangle(50,20,'blue')
+rectangle(50,20,'navy')
 
 t.goto(-30,-150)
 
-rectangle(50,20,'blue')
+rectangle(50,20,'navy')
 
 #legs
 
@@ -54,7 +54,7 @@ rectangle(-15,100,'grey')
 
 t.goto(-90,100)
 
-rectangle(100,150,'red')
+rectangle(100,150,'purple')
 
 #arms
 
@@ -84,7 +84,7 @@ rectangle(15,20,'grey')
 
 t.goto(-85,170)
 
-rectangle(80,50,'red')
+rectangle(80,50,'pink')
 
 #eyes
 
